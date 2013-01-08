@@ -21,7 +21,11 @@ $indonesia = Array(
 										'Medan',
 										'Binjai',
 										'Stabat',
-										'Tebing Tinggi'
+										'Tebing Tinggi',
+										'Pematangsiantar',
+										'Sibolga',
+										'Gunung Sitoli',
+										'Kabanjahe'
 							
 		))
 	)
