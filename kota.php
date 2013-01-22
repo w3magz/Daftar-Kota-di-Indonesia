@@ -27,7 +27,15 @@ $indonesia = Array(
 										'Gunung Sitoli',
 										'Kabanjahe'
 							
-		))
+		'Jawa'			  => Array('kota' => Array(
+										'Jakarta',
+										'Bandung',
+										'Tanggerang',
+										'Semarang',
+										'Surabaya',
+										'Solo',
+										'Cirebon'
+									))
 	)
 );
 $output = isset($_GET['output']) ? $_GET['output'] : '';
